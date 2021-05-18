@@ -1,0 +1,7 @@
+"demo.mp4" is the demo of SEND and RECV mode using TCP and UDP.
+There are 4 clients in total, one is SEND mode using TCP, one is RECV mode using TCP, one is SEND mode using UDP, one is RECV mode using UDP.
+Because the printing of statistics will be slow when the pktrate is too low, all 4 clients run with pktrate = 0 which means as fast as possible.
+
+"demo.mp4" is the demo of RESPONSE mode using TCP and UDP.
+There are 2 clients in total, one is RESPONSE mode using TCP, one is RESPONSE mode using UDP.
+Because the printing of statistics will be slow when the pktrate is too low, both clients run with pktrate = 0 which means as fast as possible.
